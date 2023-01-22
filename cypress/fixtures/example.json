@@ -1,0 +1,6 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "productName": ["Mango Chicken", "Beef Gozleme", "Pancakes with strawberry cream", "Chocolate Mousse", "Baklava with Vanilla Ice Cream", "Baklava with Vanilla Ice Cream"]
+}
