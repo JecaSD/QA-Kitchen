@@ -9,5 +9,5 @@ Please follow next steps: <br />
 ``` npm install ```  <br /> <br />
 4.) **Run cypress** <br />
 ``` node_modules/.bin/cypress open ``` <br /> <br />
-5.) **Choose e2e --->> Open Browser --->> Run desirable test (Forma, Preporuka, Menu)**
+5.) **Choose e2e --->> Open Google Chrome Browser --->> Run desirable test (Forma, Preporuka, Menu)**
 
