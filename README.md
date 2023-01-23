@@ -1,5 +1,5 @@
-# QA-Kitchen
-
+# QA-Kitchen  <br /> <br />
+## In this example we are using Cypress as testing tool  <br /> <br />
 Please follow next steps: <br />
 1.)  **Clone repo** <br /> 
 ``` git clone https://github.com/JecaSD/QA-Kitchen.git ``` <br /> <br />
